@@ -5,8 +5,7 @@
 - 📫 How to reach me - Reach me @ kripabenny7777@gmail.com
 - 😄 Pronouns: She/Her
 
-- 
-  Here's a demo project on iOS - E Commerce
+
 
 <!---
 KripaBenn/KripaBenn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
